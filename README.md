@@ -12,9 +12,9 @@
 
 ---
 
-## 🧩 What is Dead Rails?
+## 🧩 What is Dead Rails Cheat?
 
-**Dead Rails** is an advanced cheat tool developed for **Dead Rails**. It allows automation, visual enhancements, and movement improvements, all while trying to stay undetected by anti-cheat systems.
+**Dead Rails Cheat** is an advanced cheat tool developed for **Dead Rails**. It allows automation, visual enhancements, and movement improvements, all while trying to stay undetected by anti-cheat systems.
 
 🧠 *“Navigate the rails, dominate the tracks — with Dead Rails, victory is at your fingertips.”*
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 🎮 Why Choose Dead Rails?
+## 🎮 Why Choose Dead Rails Cheat?
 
 - ✅ Free and regularly updated
 - ✅ Wide range of automation and enhancement features
